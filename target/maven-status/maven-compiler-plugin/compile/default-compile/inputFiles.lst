@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\ComedorApplication.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\controller\dto\RegistroRequest.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\controller\EstudianteController.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\controller\RegistroComedorController.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\controller\ReservaComedorController.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\CorsConfig.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\entity\Estudiante.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\entity\RegistroComedor.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\entity\ReservaComedor.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\HolaController.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\repository\EstudianteRepository.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\repository\RegistroComedorRepository.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\repository\ReservaComedorRepository.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\service\RegistroComedorService.java
+C:\Users\ASUS\Desktop\comedor\src\main\java\pe\unfv\comedor\service\ReservaComedorService.java
