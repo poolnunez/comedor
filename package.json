@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@zxing/browser": "^0.1.5",
+    "@zxing/library": "^0.21.3",
+    "react-icons": "^5.5.0",
+    "react-qr-barcode-scanner": "^2.1.8"
+  }
+}
